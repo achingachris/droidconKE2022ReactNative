@@ -11,29 +11,25 @@
 ├── LICENSE
 ├── package.json
 ├── README.md
-├── src
-│   ├── assets
-│   │   ├── adaptive-icon.png
-│   │   ├── favicon.png
-│   │   ├── fonts
-│   │   ├── icon.png
-│   │   ├── icons
-│   │   └── splash.png
-│   ├── components
-│   │   ├── buttons
-│   │   ├── cards
-│   │   ├── forms
-│   │   └── layouts
-│   ├── constants
-│   ├── contexts
-│   ├── declarations
-│   ├── hooks
-│   ├── navigation
-│   ├── screens
-│   ├── services
-│   ├── state
-│   ├── types
-│   └── utils
+├── src/
+│   ├── assets/
+│   │   ├── fonts/
+│   │   ├── icons/
+│   ├── components/
+│   │   ├── buttons/
+│   │   ├── cards/
+│   │   ├── forms/
+│   │   └── layouts/
+│   ├── constants/
+│   ├── contexts/
+│   ├── declarations/
+│   ├── hooks/
+│   ├── navigation/
+│   ├── screens/
+│   ├── services/
+│   ├── state/
+│   ├── types/
+│   └── utils/
 ├── STYLEGUIDE.md
 └── tsconfig.json
 ```
